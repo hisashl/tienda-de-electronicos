@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background: linear-gradient(95deg, #146C94, #F6F1F1);
+    height: 100vh;
+    overflow: hidden;
+}
+
+a { 
+    color: inherit; 
+    text-decoration: none;
+} 
+
+#logout{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+#logout a{
+    font-size: 1.3rem;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background: linear-gradient(130deg, #146C94, #F6F1F1);
+    height: 100vh;
+    overflow: hidden;
+}
+
+#box{
+    width: 80%;
+    height: 80%;
+    background-color:#F6F1F1;
+    border-radius: 10px;
+}
+
+.hidden{
+    display: none;
+}
+
+.center{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.inside{
+    padding: 20px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+form{
+    margin: 10px 10px;
+}
+
+#con{
+    margin: 0 113px 0 0;
+}
+
